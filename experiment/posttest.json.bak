@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A wooden log of diameter 0.77m and lenght 3.5m float in water. Find the depth of the wooden log submerged in water. The density of wooden log is 728 kg/m3",
+      "qid": 1,
+      "option_a": "0.23",
+      "option_b": "0.67",
+      "option_c": "0.41",
+      "option_d": "0.72",
+      "correct_option": "b"
+   },
+   {
+      "question": "A wooden log of diameter 0.69m and lenght 3.5m float in water. Find the depth of the wooden log submerged in water. The density of wooden log is 746 kg/m3",
+      "qid": 2,
+      "option_a": "0.165",
+      "option_b": "0.379",
+      "option_c": "0.026",
+      "option_d": "0.066",
+      "correct_option": "d"
+   }
+]
