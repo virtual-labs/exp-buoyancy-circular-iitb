@@ -1,1 +1,1 @@
-<h2>AIM: To find centre of buoyancy of circular block</h2>
+<h2>AIM: To find centre of buoyancy of circular log</h2>

@@ -1,0 +1,29 @@
+[
+   {
+      "question": "The force of the buoyancy act through",
+      "qid": 1,
+      "option_a": "centre of gravity",
+      "option_b": "centre of buoyancy",
+      "option_c": "midpoint of the vertical height",
+      "option_d": "at the surface",
+      "correct_option": "b"
+   },
+   {
+      "question": "The buoyancy force act in",
+      "qid": 2,
+      "option_a": "Vertically downward direction",
+      "option_b": "Horizontally on the right direction",
+      "option_c": "Horizontally left direction",
+      "option_d": "Vertically upward direction",
+      "correct_option": "d"
+   },
+   {
+      "question": "The buoyancy force depends on",
+      "qid": 3,
+      "option_a": "Volume of the liquid displaced",
+      "option_b": "Volume of the body",
+      "option_c": "Weight of the body",
+      "option_d": "All of the above",
+      "correct_option": "a"
+   }
+]
