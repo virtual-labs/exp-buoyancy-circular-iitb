@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h2>AIM: To find centre of buoyancy of circular log</h2>
